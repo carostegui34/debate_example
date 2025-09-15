@@ -1,1 +1,8 @@
-img{max-width: 200px;}
+h1{text-transform: uppercase;}
+figure{max-width: 600px;}
+img{max-width: 100%;}
+figcaption {color:grey;}
+p{font-family: Georgia, serif;}
+.republican{color: red;}
+.democrat{color: blue;}
+h6{color: grey;}
